@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+
+
+using namespace std;
+
+
+int main(){
+
+    int n;
+    int i = 1;
+    cin>> n;
+
+    while (i <= n){
+        cout<< i << endl;
+
+        i = i * 2;
+
+    }
+}
